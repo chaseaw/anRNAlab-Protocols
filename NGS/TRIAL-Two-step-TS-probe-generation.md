@@ -79,20 +79,20 @@ Protocol:
 
 ### Isothermal strand displacement amplification (up to 2.5 hours)
 
-**7.** For each sample, combine the following components:
+**7.** **Dilute Nt.BspQI 5-fold** in water and, for each sample, combine the following components:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
   | purified dsDNA template || **10**  µL | 
-  | RNase-free water|| **6**  µL |
-  | NEB Buffer 3.1 | 10X | **3**  µL |
-  | Nt.BspQI | 10 U/µL | **1**  µL |
+  | RNase-free water|| **7**  µL |
+  | NEB Buffer 3.1 | 10X | **2**  µL |
+  | Nt.BspQI | **2 U/µL** | **1**  µL |
   | **Total** || **20** µL | 
   <br/>
 
 **8.** Incubate pre-nicking reaction at 50 °C for 15 minutes. 
 
-**8.** Combine pre-nicked template reaction with polymerase mix. <br/> _Remaining components can be assembled on ice as master mix._ 
+**9.** **Dilute Klenow Fragment 5-fold** in water and combine pre-nicked template reaction with polymerase mix. <br/> _Remaining components can be assembled on ice as master mix._ 
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |  
@@ -102,22 +102,22 @@ Protocol:
   | dNTP mix | 1 mM each | **10**  µL |
   | DTT | 100 mM | **1**  µL |
   | T4 Gene 32 Protein | 10 mg/ml | **0.5**  µL |
-  | Klenow Fragment | 1 U/µL | **1**  µL |
+  | Klenow Fragment | **1 U/µL** | **1**  µL |
   | **Total** || **50** µL |
   <br/>
 
-**9.** Incubate reactions at 37 °C and remove 15 uL at varying time points. <br/> A good starting point is 30 min, 1 hour, and 2 hours.
+**10.** Incubate reactions at 35 °C and remove 15 uL at varying time points. <br/> A good starting point is 30 min, 1 hour, and 2 hours.
 
-**10.** At each time point, inactivate enzymes at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples.
+**11.** At each time point, inactivate enzymes at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples.
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### SPRI bead cleanup and Tape (~40 minutes)
 
-**11.** Dilute reaction products to 30 µL and clean up with 1.8X SPRI beads and 3 75 % ethanol washes. <br/> Elute products in 16 µL of water.
+**12.** Dilute reaction products to 30 µL and clean up with 1.8X SPRI beads and 3 75 % ethanol washes. <br/> Elute products in 16 µL of water.
 
-**12.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape.
+**13.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape.
 
 ### qPCR follow-up
 
-**13.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
+**14.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
