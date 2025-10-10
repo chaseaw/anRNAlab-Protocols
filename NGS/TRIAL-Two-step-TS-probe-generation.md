@@ -98,7 +98,7 @@ Protocol:
   | ---------: | :---------: |:---------- |  
   | pre-nicked template || **20**  µL |   
   | RNase-free water|| **15.5**  µL |
-  | NEB Buffer 3.1 | 10X | **2**  µL |
+  | NEB Buffer 3.1 | 10X | **3**  µL |
   | dNTP mix | 1 mM each | **10**  µL |
   | DTT | 100 mM | **1**  µL |
   | T4 Gene 32 Protein | 10 mg/ml | **0.5**  µL |
