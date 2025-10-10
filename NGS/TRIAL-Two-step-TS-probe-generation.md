@@ -38,12 +38,12 @@ Protocol:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
-  | template pool | 10 ng/µl | **2**  µL | 
-  | RC oligo | 2 µM | **2.5**  µL |
+  | template pool | 10 ng/µl | **4**  µL | 
+  | RC oligo | 2 µM | **5**  µL |
   | dNTP mix | 1 mM each | **3**  µL |
-  | RNase-free water|| **18.2**  µL |
+  | RNase-free water|| **14.2**  µL |
   | NEB Buffer 3.1| 10X | **3**  µL |
-  | **Total** || **28.7** µL |
+  | **Total** || **29.2** µL |
   <br/>
   
 **2.** Anneal RC oligo to template pool in a thermocycler with the following program:  
@@ -65,16 +65,15 @@ Protocol:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
-  | annealed mix || **28.7**  µL | 
+  | annealed mix || **29.2**  µL | 
   | DTT | 100 mM | **0.6**  µL |
-  | T4 Gene 32 Protein | 10 mg/ml | **0.5**  µL |
   | Klenow Fragment| 5 U/µL | **0.2**  µL |
   | **Total** || **30** µL |
   <br/>
 
 **4.** Incubate extension in a thermocycler for 15 minutes at 37 °C (set lid to 55 °C)
 
-**5.** Add 0.2 µL of RecJ and incubate for another 15 minutes at 37 °C
+**5.** Add 0.2 µL (6 U) of RecJ and incubate for another 15 minutes at 37 °C
 
 **6.** Clean up reaction products with 1.4X SPRI beads and 2 80 % ethanol washes. <br/> Elute products in 16 µL of water. Confirm by qubit and Tape.
 
@@ -85,28 +84,40 @@ Protocol:
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
   | purified dsDNA template || **10**  µL | 
-  | RNase-free water|| **1**  µL |
-  | NEB Buffer 3.1| 10X | **5**  µL |
-  | dNTP mix | 1 mM each | **30**  µL |
-  | DTT | 100 mM | **1**  µL |
-  | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
-  | Klenow Fragment | 5 U/µL | **1**  µL |
+  | RNase-free water|| **6**  µL |
+  | NEB Buffer 3.1 | 10X | **3**  µL |
   | Nt.BspQI | 10 U/µL | **1**  µL |
+  | **Total** || **20** µL | 
+  <br/>
+
+**8.** Incubate pre-nicking reaction at 50 °C for 15 minutes. 
+
+**8.** Combine pre-nicked template reaction with polymerase mix. <br/> _Remaining components can be assembled on ice as master mix._ 
+
+  | Component | [Stock] | Quantity | 
+  | ---------: | :---------: |:---------- |  
+  | pre-nicked template || **20**  µL |   
+  | RNase-free water|| **15.5**  µL |
+  | NEB Buffer 3.1 | 10X | **2**  µL |
+  | dNTP mix | 1 mM each | **10**  µL |
+  | DTT | 100 mM | **1**  µL |
+  | T4 Gene 32 Protein | 10 mg/ml | **0.5**  µL |
+  | Klenow Fragment | 1 U/µL | **1**  µL |
   | **Total** || **50** µL |
   <br/>
 
-**8.** Incubate reactions at 37 °C and remove 15 uL at varying time points. <br/> A good starting point is 30 min, 1 hour, and 2 hours.
+**9.** Incubate reactions at 37 °C and remove 15 uL at varying time points. <br/> A good starting point is 30 min, 1 hour, and 2 hours.
 
-**9.** At each time point, inactivate enzymes at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples.
+**10.** At each time point, inactivate enzymes at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples.
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### SPRI bead cleanup and Tape (~40 minutes)
 
-**8.** Dilute reaction products to 30 µL and clean up with 1.8X SPRI beads and 3 75 % ethanol washes. <br/> Elute products in 16 µL of water.
+**11.** Dilute reaction products to 30 µL and clean up with 1.8X SPRI beads and 3 75 % ethanol washes. <br/> Elute products in 16 µL of water.
 
-**9.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape.
+**12.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape.
 
 ### qPCR follow-up
 
-**10.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
+**13.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
