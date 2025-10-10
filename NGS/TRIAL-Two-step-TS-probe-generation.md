@@ -97,7 +97,7 @@ Protocol:
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |  
   | pre-nicked template || **20**  µL |   
-  | RNase-free water|| **15.5**  µL |
+  | RNase-free water|| **14.5**  µL |
   | NEB Buffer 3.1 | 10X | **3**  µL |
   | dNTP mix | 1 mM each | **10**  µL |
   | DTT | 100 mM | **1**  µL |
