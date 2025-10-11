@@ -5,8 +5,8 @@ Description: Find optimal time conditions for new TS probesets
 Materials:
 --------------------------------------------------------------------------------
   * 10 ng/µl of TS probe template pool <br/> _Templates should end in sequence complementary to RC and not include Nt.BspQI sites._
-  * 10 µM TEQUILA-SEQ universal reverse complement oligo([ARL1050](../ARL-primers.csv))
-  * 10 mM dNTP mix (each nucleotide at 10 mM)
+  * 2 µM TEQUILA-SEQ universal reverse complement oligo([ARL1050](../ARL-primers.csv))
+  * 1 mM dNTP mix (each nucleotide at 10 mM)
   * **10X NEBuffer 3.1 (~pH 7.9 at RT, included with nickase enzyme)**
     * 500 mM Tris-HCl
     * 1 M NaCl
@@ -38,11 +38,11 @@ Protocol:
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
   | template pool | 10 ng/µl | **1**  µL | 
-  | RC oligo | 10 µM | **1.25**  µL |
-  | dNTP mix | 10 mM each | **3**  µL |
-  | RNase-free water|| **35.75**  µL |
+  | RC oligo | 2 µM | **5**  µL |
+  | dNTP mix | 1 mM each | **10**  µL |
+  | RNase-free water|| **25.5**  µL |
   | NEB Buffer 3.1| 10X | **5**  µL |
-  | **Total** || **46** µL |
+  | **Total** || **46.5** µL |
   <br/>
   
 **2.** Anneal RC oligo to template pool in a thermocycler with the following program:  
@@ -64,10 +64,10 @@ Protocol:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
-  | annealed mix || **46**  µL | 
+  | annealed mix || **46.5**  µL | 
   | DTT | 100 mM | **1**  µL |
   | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
-  | Klenow Fragment| 5 U/µL | **1**  µL |
+  | Klenow Fragment| 5 U/µL | **0.5**  µL |
   | **Total** || **49** µL |
   <br/>
 
@@ -75,7 +75,7 @@ Protocol:
 
 ### Isothermal strand displacement amplification (up to 16 hours)
 
-**5.** For each time point sample, add 1 µL of 10U/µL Nt.BspQI nickase. <br/> For the no nickase control, add 1 µL of water.
+**5.** For each time point sample, add 1 µL of Nt.BspQI nickase diluted 5-fold (to 2U/µL). <br/> For the no nickase control, add 1 µL of water.
 
 **6.** Incubate reactions at 37 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
 
