@@ -77,7 +77,7 @@ Protocol:
 
 **5.** For each time point sample, add 1 µL of Nt.BspQI nickase diluted 5-fold (to 2U/µL). <br/> For the no nickase control, add 1 µL of water.
 
-**6.** Incubate reactions at 37 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
+**6.** Incubate reactions at 40 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
 
 **7.** At the end of each time point, inactivate enzyme at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples. <br/> _Note: the no nickase control should incubate as long as the longest time point._
 
