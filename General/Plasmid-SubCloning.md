@@ -26,10 +26,6 @@ Equipment Required
   * Thermocycler
   * Microcentrifuge
 
-
-<br/><br/><br/><br/><br/>
-
-
 ___
 Protocol:
 --------------------------------------------------------------------------------
