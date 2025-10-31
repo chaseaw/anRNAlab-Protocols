@@ -91,7 +91,7 @@ Protocol:
 
 **Optional CIP Reaction (~0.5hrs)**
 
-_When isolating an insert cut from plasmid for downstream cloning, dephosphorylate the backbone separately._ 
+_When cloning with an insert cut from plasmid, dephosphorylate the backbone separately._ 
 
 **1.** Setup the following reaction with the *digested plasmid backbone*.
 | Component | Concentration | Quantity | 
@@ -102,7 +102,7 @@ _When isolating an insert cut from plasmid for downstream cloning, dephosphoryla
   | Nuclease Free Water || Up to 20  µL |
   || **Total** | 20 µL |
 
-*Technically, CIP acts on 1 pmol of DNA ends, but 1 µL is usually enough; adjust if concentration is particularly high*
+*Technically, CIP acts on 1 pmol of DNA ends, but 1 µL is usually enough; adjust if needed*
 
 **2.** Heat for 10 min at 37°C, then heat inactivate for 2 minutes at 80°C
 
@@ -110,9 +110,9 @@ _When isolating an insert cut from plasmid for downstream cloning, dephosphoryla
 
 **Ligation Reaction (30 min + overnight)**
   
-  **1.** Thaw the T4 Ligase + ATP Buffer at room temperature, frequently pipetting up and down to ensure full resuspension.
+  **1.** Thaw 10X Ligase Buffer at room temperature, frequently pipette mixing until resuspended.
 
-  **2.** Prepare the following ligation reaction. *Using a water/buffer master mix is highly encouraged*
+  **2.** Prepare the following ligation reaction. <br/> _Include no ligase and no insert controls_
 
 https://nebiocalculator.neb.com/#!/ligation
   
