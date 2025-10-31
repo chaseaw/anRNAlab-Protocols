@@ -99,8 +99,7 @@ _When cloning with an insert cut from plasmid, dephosphorylate the backbone sepa
   | Plasmid Backbone | variable  | 17  µL | 
   | NEB rCutSmart Buffer | 10X | 2  µL |
   | Quick CIP || 1  µL |
-  | Nuclease Free Water || Up to 20  µL |
-  || **Total** | 20 µL |
+  | Nuclease Free Water || Up to 20 µL **Total**|
 
 *Technically, CIP acts on 1 pmol of DNA ends, but 1 µL is usually enough; adjust if needed*
 
@@ -122,8 +121,7 @@ https://nebiocalculator.neb.com/#!/ligation
   | Insert | variable  | 3 molar equivalents of backbone | 
   | T4 Ligase Buffer | 10X | 2  µL |
   | Ligase || 1  µL |
-  | Nuclease Free Water || Up to 20  µL |
-  || **Total** | 20 µL |
+  | Nuclease Free Water || Up to 20 µL **Total**|
 
   *Formally, it should be 0.02pmol of backbone to 0.06 pmol of insert, but the ratio is more important. Use the NEB Ligation calculator to calculate molar equivelnt*
 
