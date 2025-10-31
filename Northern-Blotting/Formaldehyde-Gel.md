@@ -52,10 +52,10 @@ _Gel sets in ~30 minutes._
   | Water | | **1.85**  µl |
   || **Total** | **10** µl |
 
-**5.** Mix 10 µl of RNA sample (at least 10 µg) with 10 µl of 2X Loading Buffer.<br/>
-Denature RNAs at 90 °C for 2 minutes and proceed to loading immediately.
+**5.** Mix 10 µl of RNA sample (at least 10 µg) with 10 µl of 2X Loading Buffer. For the ladder, 4 µl with 4 µl of dye should be mixed. <br/>
+Denature RNAs at 70 °C for 10 minutes and proceed to loading immediately.
 
-**6.** Load samples (and usually a ladder). Run gel at 110 V for 1 hour.<br/>
+**6.** Load samples and ladder. Run gel at 45 V for 3 hours.<br/>
 
 **7.** Image gel to ensure even loading before moving on to transfer.<br/>
 For human RNA, the 28S and 18S peak should be the most visible products (along with tRNAs)
