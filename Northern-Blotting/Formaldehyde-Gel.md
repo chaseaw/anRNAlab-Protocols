@@ -25,7 +25,7 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
-**Denaturing Agarose gel (~2 hours)**  
+**Denaturing Agarose gel (~4 hours)**  
 
 **1.** For a 100 ml volume gel, combine the following and melt:  
   
