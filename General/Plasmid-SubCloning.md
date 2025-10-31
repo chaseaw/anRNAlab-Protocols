@@ -85,7 +85,7 @@ Protocol:
 
  **6.** Run your multi-, single, and undigested digested plasmid on the gel. 90V for an hour should be sufficient.
 
- **7.** Cut out the plasmid backbone (and insert, if applicable), taking care to minimize exposure to the light. <br/>
+ **7.** Cut out the plasmid backbone (and insert, if applicable), minimizing light exposure. <br/>
  Gel purify the slices via Monarch NEB Gel Purification Spin Kit. <br/>
  Multiple slices/melts can be pooled into one column (up to 5 µg). Elute into 20 µl and measure concentration.
 
