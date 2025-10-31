@@ -32,27 +32,27 @@ Protocol:
 --------------------------------------------------------------------------------
 **Part 1: Preparing Agarose gel for electroblotting (~1.5 hours)**  
 
-**1.** Rinse gel 3 times for 10 minutes in (MilliQ) water (dispose of liquid formaldehyde waste). If the gel was destained due to GelRed/GelGreen staining, these washes are unnecessary. <br/> Image gel to ensure even loading before assembling Northern transfer.
+**1.** Rinse gel 3 times for 10 minutes in (MilliQ) water (dispose of liquid formaldehyde waste). <br/> Image gel to ensure even loading before assembling Northern transfer.
 
 **2.** Soak gel in 5 volumes of 0.05 N NaOH for 20 minutes. <br/> _Note: This fragments RNA, allowing RNAs > 2000 nt to transfer better._
 
 **3.** Discard NaOH solution.<br/> Equilibrate gel in 10 volumes of transfer buffer (1X TBE) for 20 minutes. <br/> _Note: This 1X TBE cannot be re-used, as it contains NaOH._
 
 
-**Part 2: Electroblotting Transfer to nylon membrane (~2 hours)** 
+**Part 2: Electroblotting Transfer to nylon membrane (~3 hours [+overnight])** 
 
 **4.** Cut a nylon membrane as close to the size of your gel as possible. <br/>Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
 **5.** Rinse 2 sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> bubble-guard > cathode (-) > bubble-guard > sponge
 
-**6.** Fill the chamber half-way with 1X TBE and continue with sandwich assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman <br/>
+**6.** Fill the chamber half-way with 1X TBE and continue with sandwich assembly: <br/> 4x whatman > gel, facedown > nylon membrane > 4x whatman <br/>
 _The two whatmans on each side that are closest to the gel can be cut to closer fit the agarose gel to prevent bubbles_
 _Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
 
 **7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > bubble-guard(if it can fit) > anode (+) <br/>
-_Note: the gel will shrink as the transfer progress. If the sandwich is not very tight, can add additional sponges._
+_Note: the gel will shrink as the transfer progresses. If the sandwich is not very tight, can add additional sponges._
 
-**8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer in the cold room.  
+**8.** Transfer in the cold room at 12 V for 2 hours for a faster, but less thorough blot (retention in the gel OR transfer overnight (~20 hours) at 2-4V.  
 
 
 **Part 3: Preparation of membrane for Northern blotting (~10 minutes)** 
