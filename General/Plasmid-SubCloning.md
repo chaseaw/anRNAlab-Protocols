@@ -56,9 +56,9 @@ Protocol:
 
  **6.** Clean up the insert with PCR Clean-Up or SPRI beads. Measure concentration with a spectrophotometer.
 
-<br/><br/>
+<br/><br/><br/><br/>
 
- **Digesting and Purifying Plasmid Backbone (~2.5hrs)**
+**Digesting and Purifying Plasmid Backbone (~2.5hrs)**
 
 **1.** Set up a restriction enzyme (RE) digest of the plasmid backbone. If you need a large amount of backbone for multiple ligation reactions, set up multiple digestions. Since multiple REs will be used, it is STRONGLY encouraged to have single and no RE control samples, to ensure the REs are functional. Be sure to know the length of your plasmid.
 | Component | Concentration | Quantity | 
@@ -87,11 +87,11 @@ Protocol:
 
  **7.** Cut out the plasmid backbone (and insert, if applicable), taking care to minimize exposure to the light. <br/>
  Gel purify the slices via Monarch NEB Gel Purification Spin Kit. <br/>
- If you have multiple reactions: to increase yield, pool all the samples into one column (up to 5 µg) and elute into 20 µl. Measure concentration.
+ Multiple slices/melts can be pooled into one column (up to 5 µg). Elute into 20 µl and measure concentration.
 
 **Optional CIP Reaction (~0.5hrs)**
 
-_If you are also attempting to isolate the plasmid insert for downstream uses in plasmid cloning, you must dephosphorylate the backbone separately._ 
+_When isolating an insert cut from plasmid for downstream cloning, dephosphorylate the backbone separately._ 
 
 **1.** Setup the following reaction with the *digested plasmid backbone*.
 | Component | Concentration | Quantity | 
