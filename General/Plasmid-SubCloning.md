@@ -56,6 +56,7 @@ Protocol:
 
  **6.** Clean up the insert with PCR Clean-Up or SPRI beads. Measure concentration with a spectrophotometer.
 
+<br/><br/>
 
  **Digesting and Purifying Plasmid Backbone (~2.5hrs)**
 
@@ -74,7 +75,7 @@ Protocol:
 
  **3.** While this is running, pour a 1% agarose gel with the smallest combs (12 wells) for downstream gel purification of the backbones.
 
- _It helps to dephosphorylate the 5′ ends of the plasmid (CIP) to prevent sealing without an insert during ligation._ <br/> _Unless you plan on using a cut out insert to subclone, you can add CIP directly after digestion._
+ _Dephosphorylate 5′ ends of the plasmid (CIP) to prevent sealing without an insert during ligation._ <br/> _Unless you plan on using a cut out insert to subclone, you can add CIP directly after digestion._
 
  **4.** Add 1 µL of Quick CIP to the RE reaction, and incubate for another 10 min at 37°C. 
 
