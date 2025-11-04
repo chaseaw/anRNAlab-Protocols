@@ -34,11 +34,11 @@ Protocol:
 
 **Day 1: Northern blotting (~1 hour + overnight)** 
 
-**1.** Warm 10 mL of Hyb buffer per 100 cm<sup>2</sup> blot for 15 minutes at 65 °C. <br/> Place blot inside a glass hyb tube with the RNA side facing inwards.
+**1.** Warm 5 mL of Hyb buffer per 100 cm<sup>2</sup> blot for 15 minutes at 65 °C. <br/> Place blot inside a glass hyb tube with the RNA side facing inwards.
 
 **2.** Add warm hyb buffer to blot and block for 30 minutes at 65 °C with rotation.
 
-**3.** Directly to the hyb liquid (not the blot), add 1 µl of 1 µM probe per 10 mL buffer. <br/> Incubate overnight in the dark with rotation at 65 °C. <br/> _Note: if re-using probe, replace the prehybridization buffer with probe already in hyb buffer._
+**3.** Directly to the hyb liquid (not the blot), add up to 10 µl of 1 µM probe per 5 mL buffer. <br/> Incubate overnight in the dark with rotation at 65 °C. <br/> _Note: if re-using probe, replace the prehybridization buffer with probe already in hyb buffer._
 
 **Day 2: Washes and imaging (~1 hour)** 
 
