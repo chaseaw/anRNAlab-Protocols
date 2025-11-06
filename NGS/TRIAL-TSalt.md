@@ -39,8 +39,8 @@ Protocol:
   | ---------: | :---------: |:---------- |
   | template pool | 10 ng/µl | **1**  µL | 
   | RC oligo | 200 nM | **1**  µL |
-  | dNTP mix | 1 mM each | **25**  µL |
-  | RNase-free water || **11**  µL |
+  | dNTP mix | 1 mM each | **12.5**  µL |
+  | RNase-free water || **23.5**  µL |
   | SDA Buffer | 10X | **5**  µL |
   | **Total** || **43** µL |
   <br/>
