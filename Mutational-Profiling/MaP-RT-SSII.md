@@ -47,7 +47,7 @@ Protocol:
   || **Total** | **9** µL |
   
   **The color should change upon adding MnCl<sub>2</sub>. If it doesn't, you need new NTP minus buffer.**  
-  _Note: You can lower the concentration of MnCl<sub>2</sub> to 0.5 µL to accomodate larger RNA volumes._
+  _Note: You can lower the volume (increase concentration) of MnCl<sub>2</sub> to 0.5 µL to accomodate larger RNA volumes._
   
 **3.** Mix 9 µL of master mix with 10 µL of each primer-RNA mix and incubate for 2 minutes at 25 °C. 
 
