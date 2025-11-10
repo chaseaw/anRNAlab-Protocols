@@ -40,9 +40,9 @@ Protocol:
   | template pool | 10 ng/µl | **1**  µL | 
   | RC oligo | 200 nM | **1**  µL |
   | dNTP mix | 1 mM each | **12.5**  µL |
-  | RNase-free water || **23.5**  µL |
+  | RNase-free water || **25**  µL |
   | SDA Buffer | 10X | **5**  µL |
-  | **Total** || **43** µL |
+  | **Total** || **44.5** µL |
   <br/>
   
 **2.** Anneal RC oligo to template pool in a thermocycler with the following program:  
@@ -64,8 +64,8 @@ Protocol:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
-  | annealed mix || **43**  µL | 
-  | DTT | 100 mM | **2.5**  µL |
+  | annealed mix || **44.5**  µL | 
+  | DTT | 100 mM | **1**  µL |
   | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
   | Klenow Fragment| 5 U/µL | **2.5**  µL |
   | **Total** || **49** µL |
