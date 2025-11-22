@@ -56,9 +56,8 @@ _Note: After finding optimal timing, final probe generation can be done at 4X vo
   | **4 °C** || **hold until next step** |
   
   _Note: Should take 15 minutes to ramp down from 95 to 4,_ <br/> _set Proflex ramp rate to 0.3 °C/sec to achieve this._
-<br/>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ### Intial extension (~15 minutes)
 
@@ -90,7 +89,7 @@ _Note: After finding optimal timing, final probe generation can be done at 4X vo
 **9a.** At each time point, inactivate 8 µL aliquots with 16 µL of 2X RNA loading dye. <br/> Move inactivated time points to 4 °C until ready to run all samples. <br/>
 _Note: the no nickase control should incubate as long as the longest time point._
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ### If performing final amplifications:
 
