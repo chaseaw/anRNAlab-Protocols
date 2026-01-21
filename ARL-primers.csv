@@ -1162,3 +1162,8 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1161,HsU1 RAP probe 3,RAP probe,HsU1,any,IDT,,CAAGTCACAGGGGAAAGCGCGAACGCAGTCCCCCACTACCACAAATTATGCAGTCGA
 1162,HsU1 snRNA qPCR F,qPCR,HsU1,any,IDT,,CCATGATCACGAAGGTGGTTTTCC
 1163,HsU1 snRNA qPCR R,qPCR,HsU1,any,IDT,,GCAGTCGAGTTTCCCACATTTGG
+1164,Calm1 5UTR LongAmp F,amplicon sequencing,RnCalm1,CALMs,IDT,,gtgccgttactcgcagtc
+1165,Calm2 5UTR LongAmp F,amplicon sequencing,RnCalm2,CALMs,IDT,,ttagtccgagtggagcgag
+1166,Calm2 5UTR Minor LongAmp F,amplicon sequencing,RnCalm2,CALMs,IDT,,GGGACTCGTTCGCTATGTT
+1167,Calm3 5UTR LongAmp F,amplicon sequencing,RnCalm3,CALMs,IDT,,aaagagtgtggaggcgc
+1168,Calm3 5UTR Minor LongAmp F,amplicon sequencing,RnCalm3,CALMs,IDT,,gttgagggaccgttggg
