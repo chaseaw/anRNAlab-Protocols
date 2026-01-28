@@ -85,7 +85,7 @@ _Note: PhiX 20 pM libraries can be prepared as laid out above._
 **15.** Dilute library to final concentration.
   * for 9 pM  : 270 µL of library and 330 µL HT1 buffer _(totally safe for amplicons)_
   * for 10 pM : 300 µL of library and 300 µL HT1 buffer _(usually ok but gambling)_
-  * for 12 pM : 300 µL of library and 300 µL HT1 buffer _(ok with V3 600 kits)_
+  * for 12 pM : 360 µL of library and 240 µL HT1 buffer _(ok with V3 600 kits)_
 
 **Part 6: Loading the instrument**
 
