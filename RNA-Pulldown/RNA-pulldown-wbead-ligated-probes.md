@@ -9,8 +9,8 @@ Materials:
   ◦ 10 µg Input RNA  
   ◦ 100 µM splint-complementary probe mixes _(AS to target and control (U1) probes)_  
   ◦ 1 mM polyA splint DNA [ARL1158](../ARL-primers.csv)  
-  ◦ [10 units/µl T4 Polynucleotide Kinase](https://www.neb.com/en-us/products/m0201-t4-polynucleotide-kinase)  
-  ◦ Oligo d(T)<sub>25</sub> Magnetic Beads(https://www.neb.com/en-us/products/s1419-oligo-dt25-magnetic-beads)  
+  ◦ 10 units/µl [T4 Polynucleotide Kinase](https://www.neb.com/en-us/products/m0201-t4-polynucleotide-kinase)  
+  ◦ [Oligo d(T)<sub>25</sub> Magnetic Beads](https://www.neb.com/en-us/products/s1419-oligo-dt25-magnetic-beads)  
 
   * **[T4 DNA Ligase Reaction Buffer (10X)](https://www.neb.com/en-us/products/b0202-t4-dna-ligase-reaction-buffer)**   
     ◦ 500 mM Tris pH 7.5  
@@ -32,7 +32,7 @@ Equipment Required:
 ◦ Heat block with shaking  
 ◦ Thermocycler  
 
-<br/><br/><br/><br/><br/><br/><br/><br/>   
+<br/><br/><br/><br/>   
 
 Day of Buffer Preparation:
 -------------------------------------------------------------------------------- 
