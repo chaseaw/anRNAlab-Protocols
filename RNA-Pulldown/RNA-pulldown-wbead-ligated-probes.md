@@ -1,4 +1,4 @@
-RNA pulldown with bead-ligated DNA oligo probes
+RNA pulldown with bead-ligated oligos
 ================================================================================
 Description: Capture target RNAs from total using bead-ligated DNA oligos
 
@@ -32,7 +32,7 @@ Equipment Required:
 ◦ Heat block with shaking  
 ◦ Thermocycler  
 
-<br/><br/> 
+<br/><br/><br/> 
 
 Day of Buffer Preparation:
 -------------------------------------------------------------------------------- 
