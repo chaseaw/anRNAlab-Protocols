@@ -154,8 +154,6 @@ _Note: If performing double capture, take elution to step 14 and repeat._
 
 **19.** Perform qPCR of target on Input RNA and elution to confirm enrichment.
 
-<br/>
-
 <details>
   <summary>Next Steps</summary>
   
