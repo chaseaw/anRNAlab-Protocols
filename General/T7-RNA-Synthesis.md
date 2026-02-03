@@ -14,7 +14,7 @@ Materials:
   * **10X High-Yield T7 Buffer**  
     ◦ 1 M HEPES, pH 7.5  
     ◦ 100 mM MgCl<sub>2</sub>    
-    ◦ 20 mM spermidine (pure spermidine is 6.37 M liquid) 
+    ◦ 20 mM spermidine (pure spermidine is 6.37 M liquid)  
     ◦ 200 mM DTT  
     ◦ 1 mg/mL BSA  
   
