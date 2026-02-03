@@ -70,13 +70,13 @@ Day of Buffer Preparation:
     ◦ 7.5 mM **additional** EDTA  
     ◦ 10 % SDS  
 
-<br/><br/><br/><br/>
+<br/>
 
 
 
 Protocol:
 --------------------------------------------------------------------------------
-**Kinase probes and prepare beads (1.5 hours)**
+**Part 1: Kinase probes and prepare beads (1.5 hours)**
 
 **1.** Assemble a kinase reaction for each capture sample.<br/>
 _Note: Be sure to include samples for capture with U1 control probes._
@@ -105,7 +105,7 @@ Aliquot 50 µl bead slurry per capture. Capture beads and remove liquid.
 **7.** Wash beads three times with 50 µl dT Wash Buffer.<br/>
 _Don't remove the last wash until the PNK reaction is finished._
 
-**Splinted ligation of probes to beads (1 hour)**
+**Part 2: Splinted ligation of probes to beads (1 hour)**
 
 **8.** Prepare 25 µl of 2X Quick Ligation Mix per capture.
 
@@ -122,7 +122,7 @@ each wash should be 2 min at 95 °C with 1250 rpm shaking.
 
 **13.** Resuspend beads in 25 µl of 4M Urea Hyb Buffer.
 
-**RNA Capture**
+**Part 3: RNA Capture (1.5 hours for single capture/3 hours for double capture)**
 
 **14.** Mix 10 µg of RNA into 200 µl of 4M Urea Hyb Buffer and pre-warm to 42 °C.
 
@@ -133,16 +133,18 @@ _Note: If performing a double capture, use 12.5 µl beads for each sequential ca
 _In theory, flowthrough could be added to other probe-beads to capture other targets._
 
 **17.** Perform the following washes to bound beads:<br/>
--2X 50 µl washes with 4M Urea Hyb, 2 minutes at 37 °C with 1100 rpm shaking  
--2X 50 µl washes with SDS Wash, 2 minutes at 37 °C with 1100 rpm shaking  
--2X 50 µl washes with dT Wash, 2 minutes at 37 °C with 1100 rpm shaking  
--2X 50 µl washes with TE Elution, quick washes at RT
+2X 50 µl washes with **4M Urea Hyb**, 2 minutes at 37 °C with 1100 rpm shaking  
+2X 50 µl washes with **SDS Wash**, 2 minutes at 37 °C with 1100 rpm shaking  
+2X 50 µl washes with **dT Wash**, 2 minutes at 37 °C with 1100 rpm shaking  
+2X 50 µl washes with **TE Elution**, quick washes at RT
 
 **18.** Resuspend beads in 15 µl TE Elution,<br/>
-Heat 3 minutes at 95 °C with 1350 rpm shaking.
+Heat 3 minutes at 95 °C with 1350 rpm shaking.<br/>
 Retain first elution, repeat 15 µl elution with beads,<br/>
 combine first and second elution for a total of 30 µl.<br/>
 _Note: If performing double capture, take elution to step 14 and repeat._
+
+**Part 4: qPCR validation (2.5 hours)**
 
 **19.** Perform qPCR of target on Input RNA and elution to confirm enrichment.
 
