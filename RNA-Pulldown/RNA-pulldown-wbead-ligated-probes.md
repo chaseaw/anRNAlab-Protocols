@@ -2,6 +2,8 @@ RNA pulldown with bead-ligated DNA oligo probes
 ================================================================================
 Description: Capture target RNAs from total using bead-ligated DNA oligos
 
+[Go To Protocol](#protocol)
+
 Materials:
 --------------------------------------------------------------------------------
   ◦ 10 µg Input RNA  
@@ -24,27 +26,37 @@ Materials:
     ◦ 100 mM Tris pH 7.5  
     ◦ 25 mM EDTA 
 
-  * **oligo dT Wash Buffer** _(make day of)_  
+Equipment Required:
+-------------------------------------------------------------------------------- 
+◦ Magnetic rack  
+◦ Heat block with shaking  
+◦ Thermocycler  
+
+<br/><br/><br/><br/><br/><br/><br/><br/>   
+
+Day of Buffer Preparation:
+-------------------------------------------------------------------------------- 
+  * **oligo dT Wash Buffer**  
     ◦ 1X HEPES Buffer Base  
     ◦ 300 mM NaCl 
     ◦ 0.1 % Triton X-100 
 
-  * **oligo dT Binding Buffer** _(make day of)_  
+  * **oligo dT Binding Buffer** 
     ◦ 1X HEPES Buffer Base  
     ◦ 500 mM LiCl 
     ◦ 0.1 % Triton X-100 
 
-  * **Quick Ligation Mix (2X)** _(make day of)_  
+  * **Quick Ligation Mix (2X)**  
     ◦ 2.5X NEBNext® Quick Ligation Reaction Buffer [(from 5X)](https://www.neb.com/en-us/products/b6058-nebnext-quick-ligation-reaction-buffer)  
     ◦ 0.625X Instant Sticky-end Ligase Master Mix [(from 2X)](https://www.neb.com/en-us/products/m0370-instant-sticky-end-ligase-master-mix)  
     ◦ 18.75 % 1,2 propanediol _(CAS#57-55-6)_  
 
-  * **TE elution Buffer** _(make day of)_  
+  * **TE elution Buffer**  
     ◦ 1X Tris Buffer Base  
     ◦ 10 mM **additional** Tris pH 7.5  
     ◦ 0.1 % SDS  
 
-  * **4M Urea Hybridization Buffer** _(make day of)_  
+  * **4M Urea Hybridization Buffer**  
     ◦ 1X Tris Buffer Base  
     ◦ 4M Urea 
     ◦ 2.5 mM **additional** EDTA  
@@ -53,18 +65,14 @@ Materials:
     ◦ 0.2 % SDS  
     ◦ 0.1 % Sodium Deoxycholate  
 
-  * **SDS Wash Buffer** _(make day of)_  
+  * **SDS Wash Buffer**  
     ◦ 1X HEPES Buffer Base  
     ◦ 7.5 mM **additional** EDTA  
     ◦ 10 % SDS  
 
-<br/><br/><br/><br/>  
+<br/><br/><br/><br/>
 
-Equipment Required:
--------------------------------------------------------------------------------- 
-◦ Magnetic rack  
-◦ Heat block with shaking  
-◦ Thermocycler  
+
 
 Protocol:
 --------------------------------------------------------------------------------
