@@ -70,7 +70,7 @@ Day of Buffer Preparation:
     ◦ 7.5 mM **additional** EDTA  
     ◦ 10 % SDS  
 
-<br/><br/>
+<br/><br/><br/>
 
 
 
@@ -153,6 +153,8 @@ _Note: If performing double capture, take elution to step 14 and repeat._
 **Part 4: qPCR validation (2.5 hours)**
 
 **19.** Perform qPCR of target on Input RNA and elution to confirm enrichment.
+
+<br/>
 
 <details>
   <summary>Next Steps</summary>
