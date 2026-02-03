@@ -32,7 +32,7 @@ Equipment Required:
 ◦ Heat block with shaking  
 ◦ Thermocycler  
 
-<br/><br/><br/><br/>   
+<br/><br/> 
 
 Day of Buffer Preparation:
 -------------------------------------------------------------------------------- 
@@ -93,7 +93,7 @@ _Note: Be sure to include samples for capture with U1 control probes._
 While samples are kinased, prepare buffers for bead equilibration:<br/>
 Per capture: 600 µl of dT Wash Buffer, 100 µl of dT Binding Buffer
 
-**.3.** During kinase incubation, prepare Oligo d(T)<sub>25</sub> magnetic beads:<br/>
+**3.** During kinase incubation, prepare Oligo d(T)<sub>25</sub> magnetic beads:<br/>
 Aliquot 50 µl bead slurry per capture. Capture beads and remove liquid.
 
 **4.** Wash beads twice (suspending beads each time) in 50 µl dT Wash Buffer.
@@ -105,6 +105,7 @@ Aliquot 50 µl bead slurry per capture. Capture beads and remove liquid.
 **7.** Wash beads three times with 50 µl dT Wash Buffer.<br/>
 _Don't remove the last wash until the PNK reaction is finished._
 
+<br/>
 **Part 2: Splinted ligation of probes to beads (1 hour)**
 
 **8.** Prepare 25 µl of 2X Quick Ligation Mix per capture.
@@ -122,6 +123,7 @@ each wash should be 2 min at 95 °C with 1250 rpm shaking.
 
 **13.** Resuspend beads in 25 µl of 4M Urea Hyb Buffer.
 
+<br/>
 **Part 3: RNA Capture (1.5 hours for single capture/3 hours for double capture)**
 
 **14.** Mix 10 µg of RNA into 200 µl of 4M Urea Hyb Buffer and pre-warm to 42 °C.
@@ -144,6 +146,7 @@ Retain first elution, repeat 15 µl elution with beads,<br/>
 combine first and second elution for a total of 30 µl.<br/>
 _Note: If performing double capture, take elution to step 14 and repeat._
 
+<br/>
 **Part 4: qPCR validation (2.5 hours)**
 
 **19.** Perform qPCR of target on Input RNA and elution to confirm enrichment.
