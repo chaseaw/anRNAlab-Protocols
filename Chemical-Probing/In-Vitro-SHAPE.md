@@ -19,7 +19,7 @@ Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
   
   * Depending on SHAPE reagent half-life, DTT may be required for quenching
   
-  * 10 pMol of *in vitro* transcribed RNA per sample
+  * 10 picomoles of *in vitro* transcribed RNA per sample
      
 Equipment Required:
 --------------------------------------------------------------------------------
