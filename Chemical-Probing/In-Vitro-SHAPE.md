@@ -8,7 +8,7 @@ Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
   * **5X Folding Buffer**  
     ◦ 500 mM HEPES pH 8.0 (ideally at 37 °C)    
     ◦ 500 mM NaCl      
-    ◦ 25 mM MgCl<sub>2</sub>
+    ◦ 25 mM MgCl<sub>2</sub>  
   _Note: The identity and concentrations of salt and magnesium can be altered to needs._
   
   * Anhydrous DMSO
