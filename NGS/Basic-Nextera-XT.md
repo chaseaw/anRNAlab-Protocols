@@ -20,7 +20,7 @@ Equipment Required:
   * Thermocycler
   * Magnetic Stand
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -51,7 +51,9 @@ Protocol:
   | i5 index primer | 5µM | **5**  µL |
   | Nextera PCR Master Mix |3.33X| **15**  µL |
   || **Total** | **50** µL |
-  
+
+<br/><br/><br/>
+
 **5.** Run Nextera PCR:
 
   | Cycles | Temp | Time | Step |
