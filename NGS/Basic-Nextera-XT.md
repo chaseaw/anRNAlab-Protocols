@@ -52,7 +52,7 @@ Protocol:
   | Nextera PCR Master Mix |3.33X| **15**  µL |
   || **Total** | **50** µL |
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 **5.** Run Nextera PCR:
 
   | Cycles | Temp | Time | Step |
