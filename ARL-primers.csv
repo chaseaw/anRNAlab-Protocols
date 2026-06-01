@@ -1228,3 +1228,5 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1227,pDOX pA inv R,inverse PCR,pTETRIS CARGO pA ,CiBER-MaP,IDT,,CAGCATGCCTGCTATTGTCTTCC
 1228,Cas9 Ci amp F,amplicon,lenti ZIM3 dCas9 mCherry,CiBER-MaP,IDT,,GTCTAGAGCTAGCgccaccatggacaagaagtac
 1229,Cas9 Ci amp R,amplicon,lenti ZIM3 dCas9 mCherry,CiBER-MaP,IDT,,TCTCGAGCTAGCccctcgaggtcgacgg
+1230,CiBER insert F,amplicon,gblocks,CiBER-MaP,IDT,,ttgtggaaaggacgaaac
+1231,CiBER insert R,amplicon,gblocks,CiBER-MaP,IDT,,GTACCGTTGCTAGCACG
