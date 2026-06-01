@@ -1218,3 +1218,13 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1217,Osgin1 qPCR F,qPCR,Osgin1,NRF2,IDT,630167320,CAGCCATGAGCTCCTCCAG
 1218,Osgin1 qPCR R,qPCR,Osgin1,NRF2,IDT,630167321,GGTAGGACAGGCAGATACCAG
 1219,NMRAL2P e1 qPCR R,qPCR,NMRAL2P,NRF2,IDT,,CAGGAAAAGAGAGAGTCAGTGG
+1220,kozak BSD inv F,inverse PCR,pDECKO,CiBER-MaP,IDT,,gagcgctgccaccatggccaagcctttgtctcaagaag
+1221,EF-1a inv R,inverse PCR,pDECKO,CiBER-MaP,IDT,,tagaacgggtcctgtgttctggcgg
+1222,EF-1a DECKO bb amp F,inverse PCR,pDECKO-gONLY-BLAST,CiBER-MaP,IDT,,TATTGAGGCCagctaggtcttgaaaggagtgg
+1223,U6 DECKO bb amp R,inverse PCR,pDECKO-gONLY-BLAST,CiBER-MaP,IDT,,CTAGCACGAaccggtgtttcgtcctttcc
+1224,REVnLuc CDC42 Amp F,amplicon,CDC42 Psi Reporter,CiBER-MaP,IDT,,aaacaccggtTCGTGCTAGCAACGGTACC
+1225,REVnLuc CDC42 Amp R,amplicon,CDC42 Psi Reporter,CiBER-MaP,IDT,,gacctagctGGCCTCAATATTGGCCATTAGC
+1226,pDOX pA inv F,inverse PCR,pTETRIS CARGO pA ,CiBER-MaP,IDT,,ATTTCGACGACCTGCAGCC
+1227,pDOX pA inv R,inverse PCR,pTETRIS CARGO pA ,CiBER-MaP,IDT,,CAGCATGCCTGCTATTGTCTTCC
+1228,Cas9 Ci amp F,amplicon,lenti ZIM3 dCas9 mCherry,CiBER-MaP,IDT,,GTCTAGAGCTAGCgccaccatggacaagaagtac
+1229,Cas9 Ci amp R,amplicon,lenti ZIM3 dCas9 mCherry,CiBER-MaP,IDT,,TCTCGAGCTAGCccctcgaggtcgacgg
