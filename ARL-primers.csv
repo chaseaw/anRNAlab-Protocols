@@ -1027,7 +1027,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1026,Nterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,576141684,ggcggaggaggagaattagtc
 1027,Nterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,576141686,CTTCGGCATCTTTCCCCCAC
 1028,Cterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,576141688,TGGGTGTCACATTGATTTTGTCCT
-1029,Cterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,576141690,CAGTGGGGGAACCTTTTACAGAT
+1029,Cterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,tccagaggaagccacatgc
 1030,Nterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,576141692,cgctgcgggcaaagagtg
 1031,Nterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,576141694,cggggtctctacccgacttc
 1032,Cterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,576141696,ggcacaccttccatgctgag
@@ -1239,3 +1239,5 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1238,Hygro Amp R,amplicon,pNL3.2.CMV,CiBER-MaP,IDT,,TTAAACTCGACCTACCTCCTTAGC
 1239,BBamp pA F,inverse PCR,pDOX,CiBER-MaP,IDT,,GGAGGTAGGTCGAGTTTAAGTCGACAATCAACCTCTGGATTAC
 1240,BBamp T2A R,inverse PCR,pDOX,CiBER-MaP,IDT,,TGAGTTCGGGCTTCTTCATGAATTCAGGGCCGG
+1241,2_Calm2CenterqPCR Fwd,qPCR,Calm2 mRNA,CALM,IDT,,CGACGGTAATGGCACAATCG
+1242,2_Calm2CenterqPCR Rev,qPCR,Calm2 mRNA,CALM,IDT,,AACACACGGAACGCTTCTCT
