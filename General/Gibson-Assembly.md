@@ -21,7 +21,7 @@ Equipment Required:
   * 42 °C water bath
   * 37 °C shaker
   
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
   
