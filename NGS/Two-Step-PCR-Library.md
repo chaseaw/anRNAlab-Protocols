@@ -65,7 +65,7 @@ Protocol:
   | 1 | 72 °C | 2 minutes | final extension |
   | ---------: | :--------: | :---------: |:---------: |
   
-  _Note: Extension times and annealing temps can be optimized for amplicon length and primer Tm's._
+  _Note: Extension time and annealing temp can be optimized for amplicon length and primer Tm._
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 **3.** Clean up 1st step PCR with a 1X ratio of [SPRI beads](./SPRI-beads.md), 2x 80% Ethanol washes, and 15 µL elution.
