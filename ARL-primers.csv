@@ -1265,3 +1265,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1264,RIMS3 UGUAG to UUUAA Inv PCR F,Inverse PCR,RIMS3 Reporter,PUS7,IDT,635408027,TTTAAATGAGTTGCCCTCCACCTGG
 1265,RIMS3 UGUAG to UUUAG Inv PCR F,Inverse PCR,RIMS3 Reporter,PUS7,IDT,635408028,TTTAGATGAGTTGCCCTCCACCTGG
 1266,RIMS3 UGUAG to All Inv PCR R,Inverse PCR,RIMS3 Reporter,PUS7,IDT,635408029,ACATCAAGCAAAGGCAGCAATTTC
+1267,CaM2C_Flank_Longer_Rev,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,ccgacggttcctaaagctac
+1268,CaM2C_Flank_Seq_noAdapt_Rev,PCR/Seq,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,gaaacatggaggaatggagtcc
+1269,CaM2C_Flank_Seq_Adapt_Rev,Seq,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNgaaacatggaggaatggagtcc
+1270,CaM2C_V5_Longer_Fwd,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,gggtacagatttgacttttgacc
