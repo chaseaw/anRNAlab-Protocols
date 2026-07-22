@@ -59,7 +59,7 @@ Do not pipette the reagent onto the sides of the tube.
 
 **8.** Incubate cells for approximately 24 hours.
 
-<br/><br/><br/>
+<br/>
 
 ### Day 3
 
