@@ -29,7 +29,7 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
 **1.** Plate cells in complete media.  
-1 line per well of a 6-well plate 1 day before transfection.  
+1 desired cell line per well of a 6-well plate 1 day before transfection.  
 _Note: the amount of plated cells is cell line-dependent._
 
 ### Day 2
@@ -49,7 +49,8 @@ _Note: the amount of plated cells is cell line-dependent._
   _If multiple cargos are used, they should add up to the µg total._
 
 **4.** Add 8 µL FuGENE HD directly into the media/DNA mixture.  
-Do not pipette the reagent onto the sides of the tube.
+Do not pipette the reagent onto the sides of the tube.  
+_Note: this is a 2:1 ratio, but can be optimized per cell line._
 
 **5.** Flick the tube gently to mix.
 
