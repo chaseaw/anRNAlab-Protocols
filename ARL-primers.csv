@@ -1277,3 +1277,21 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1276,CiBER-MaP CDC42 MaP i7 F,CiBER-MaP,CDC42,CiBER-MaP,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNTGCACCTTTGAAATGCACC
 1277,CiBER-MaP RIMS3 BID i7 F,CiBER-MaP,RIMS3,CiBER-MaP,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNTCTGCAAGAAATTGCTGCC
 1278,CiBER-MaP RIMS3 MaP i7 F,CiBER-MaP,RIMS3,CiBER-MaP,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNGTTCCAGCCCTCCTAATACC
+1279,HiBitLinker_Int_Rev,PCR,HiBit Insert,Calmodulin RNAs,IDT,,CCGCTAATCTTCTTGAACAGC
+1280,C1_Exon1_NtermHibit_Flank_Fwd,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,ttgagtgaccgacacgcag
+1281,C1_Exon1_NtermHibit_Flank_Rev,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,ctgctgctgcgtaacacc
+1282,C1_Exon2_NtermHibit_Flank_Fwd,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,gacaggatcctggtcctgg
+1283,C1_Exon2_NtermHibit_Flank_Rev,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,ggcggagcagagtccattcc
+1284,C1_CtermHiBit_Flank_Fwd,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,cctgtctttgttatgttcggtg
+1285,C1_CtermHiBit_Flank_Rev,PCR,Rn Calm1 gDNA,Calmodulin RNAs,IDT,,ccttctgtccacacacaaaatc
+1286,C2_Exon1_NtermHibit_Flank_Fwd,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,caaagagagccacgctgc
+1287,C2_Exon1_NtermHibit_Flank_Rev,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,ctgcgacatgaccgtcgcg
+1288,C2_Exon2_NtermHibit_Flank_Fwd,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,ggtgctcagtttcatttggg
+1289,C2_Exon2_NtermHibit_Flank_Rev,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,attcaggtcacaatcaaaggC
+1290,C2_CtermHiBit_Flank_Fwd,PCR,Rn Calm2 gDNA,Calmodulin RNAs,IDT,,gccagataagctcttcatcc
+1291,C3_Exon1_NtermHibit_Flank_Fwd,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,cggaaagtagtcctcgcag
+1292,C3_Exon1_NtermHibit_Flank_Rev,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,ccatttgaagcctcagactg
+1293,C3_Exon2_NtermHibit_Flank_Fwd,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,cactgcctggacctagttcc
+1294,C3_Exon2_NtermHibit_Flank_Rev,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,gtgacatggacatacatgatgg
+1295,C3_CtermHiBit_Flank_Fwd,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,ggtggcagttgacggatg
+1296,C3_CtermHiBit_Flank_Rev,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,agcagtcatgcagcttggg
