@@ -58,7 +58,7 @@ Protocol:
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
-  | **1** | **72 °C** | **3:00** | **enzyme denaturation?** |
+  | **1** | **72 °C** | **3:00** | **overhang repair** |
   | **1** | **95 °C** | **0:30** | **inital denaturation** |
   
   || 95 °C | 0:10 | denaturation |
