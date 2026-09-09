@@ -1311,3 +1311,16 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1310,M1 Miyagawa E NheI pPRA R,,pDox M1s,PRA-MaP,IDT,,AAGAAAAACCTTCATGACGAGGATTCTAGACAGACCTAAGGG
 1311,M1 Miyagawa M NheI pPRA F,,pDox M1s,PRA-MaP,IDT,,GTACCGTTTGGTCTAGAGCTAGCTGGAATTTGGAGGGATGGGAG
 1312,M1 Miyagawa M NheI pPRA R,,pDox M1s,PRA-MaP,IDT,,AAGAAAAACCTTCATGACGCTTTGTTGTCTCTCCTGCCAC
+1313,C1_5UTR_Over_Fwd,Cloning,Calm1 5UTR GB,Calmodulin RNAs,IDT,,GAGAATTCGAGCTCGGTACACG
+1314,C1_5UTR_Rev,Cloning,Calm1 5UTR GB,Calmodulin RNAs,IDT,,ggtgcgagcgaaggaagg
+1315,C1_CDS-notag_Over_Fwd,Cloning,Calm2 5UTR GB,Calmodulin RNAs,IDT,,tccttccttcgctcgcaccatggctgatcagctgactg
+1316,C1_CDS-notag_Over_Rev,Cloning,Calm2 5UTR GB,Calmodulin RNAs,IDT,,agtagttgaaagtaggtcttcattttgcagtcatcatctg
+1317,C1_CDS-NtV5_Over_Fwd,Cloning,Calm3 5UTR GB,Calmodulin RNAs,IDT,,tccttccttcgctcgcaccatgGTGAGCGGCTGGCGGCTGTTCAAGAAGATTAGCGGAAGCTCAGGTgctgatcagctgactgaag
+1318,C1_CDS-CtV5_Over_Rev,Cloning,Calm3 5UTR GB,Calmodulin RNAs,IDT,,agtagttgaaagtaggtcttcaCGTAGAATCGAGACCGAGGAGAGGGTTAGGGATAGGCTTACCttttgcagtcatcatctgtac
+1319,C1_CDS-NtHiBit_Over_Fwd,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,tccttccttcgctcgcaccatgGTGAGCGGCTGGCGGCTGTTCAAGAAGATTAGCGGAAGCTCAGGTgctgatcagctgactgaag
+1320,C1_CDS-CtHiBit_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,agtagttgaaagtaggtcttcaGCTAATCTTCTTGAACAGCCGCCAGCCGCTCACACCTGAGCTTCCttttgcagtcatcatctgtac
+1321,C1_3UTR_Fwd,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,agacctactttcaactactttc
+1322,C1_Short_Full3UTR_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGttaagttaatggtctttttattgg
+1323,C1_Short_Part3UTR_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGgcatttacaacttggaatgg
+1324,C1_Long_FULL3UTR_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGtgaatacagtgccaggtttataaataaaac
+1325,C1_Long_Part3UTR_Over_Rev,Cloning,Calm2 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGcagtttccatagagttggtcc
