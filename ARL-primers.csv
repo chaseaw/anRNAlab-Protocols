@@ -1324,3 +1324,6 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1323,C1_Short_Part3UTR_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGgcatttacaacttggaatgg
 1324,C1_Long_FULL3UTR_Over_Rev,Cloning,Calm1 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGtgaatacagtgccaggtttataaataaaac
 1325,C1_Long_Part3UTR_Over_Rev,Cloning,Calm2 CDS GB,Calmodulin RNAs,IDT,,GCACAGTCGAATTCTCGAGcagtttccatagagttggtcc
+1326,ACTB 3'UTR MaP RT,RT,ACTB,RNPMaP,IDT,,ggacttgggagaggactg
+1327,ACTB 3'UTR i7 F,MaP,ACTB,RNPMaP,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNcaccgcaaatgcttctagg
+1328,ACTB 3'UTR i5 R,MaP,ACTB,RNPMaP,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNggacttgggagaggactg
